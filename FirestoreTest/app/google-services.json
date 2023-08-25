@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624140925798",
+    "project_id": "firestoretest-3469c",
+    "storage_bucket": "firestoretest-3469c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624140925798:android:06b784f5a1da5edce4a6a7",
+        "android_client_info": {
+          "package_name": "com.jica.firestoretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624140925798-qkm699ahm6ikgf1vnd9c4lhtjb4902t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQ2qWjO4BG-WxnDZlW9O3l5z2AttQPIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624140925798-qkm699ahm6ikgf1vnd9c4lhtjb4902t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
